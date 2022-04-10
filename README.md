@@ -1,5 +1,6 @@
 # Amazon-clone
-Cloning Amazon website with only html and css
+Cloning Amazon website with only html and css.
+
 Here is its preview
 <img width="1439" alt="preview" src="https://user-images.githubusercontent.com/103022832/162610684-187b5603-2747-43eb-8be0-1b00790db6c3.png">
 <img width="1439" alt="preview2" src="https://user-images.githubusercontent.com/103022832/162610688-51e4f0fa-4cf5-4be1-9c5c-4f9638e5aac6.png">
