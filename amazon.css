@@ -363,3 +363,20 @@ footer a:hover {
     width: 19%;
 padding: auto;
 }
+.created{
+  background-color: black;
+  color: white;
+  font-family:"Amazon Ember", sans-serif ;
+  font-size: 40px;
+  text-align: center;
+}
+.created img{
+  width: 25%;
+}
+.created a{
+  color: white;
+  font-family:"Amazon Ember", sans-serif ;
+}
+.created a:hover{
+  color: blue;
+}
